@@ -1,11 +1,11 @@
 # Site settings
-title: 欢迎你
-SEOTitle: 王守昌的博客 | wsccoder Blog
+title: Welcome
+SEOTitle: 常磊的博客 | wsccoder Blog
 header-img: img/post-bg-universe.jpg
-email: wsccoder@gmail.com
-description: "Talk Is Cheap Show Me The Code  "
-keyword: "wsc, wsccoder Blog, 王守昌的博客, Java, Go, iPhone, mac pro, book"
-url: "http://wsccoder.github.io"          # your host, for absolute URL
+email: 2316969872@qq.com
+description: "Save my Code "
+keyword: "java,python,machine Learning, Blog, 常磊的博客"
+url: "http://slienceaadsa.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/wsccoder/wsccoder.github.io.git" # you code repository
 
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-wsc-gentle.jpg      # use absolute URL, seeing it's u
 RSS: false
 # weibo_username:     
 zhihu_username:      
-github_username:    wsccoder
+github_username:    slienceaadsa
 facebook_username:   
 jianshu_username:    
 #twitter_username:   
