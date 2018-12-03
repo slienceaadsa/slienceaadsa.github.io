@@ -10,4 +10,9 @@ Ubuntu下安装指定python版本
    whereis  python3.5
    
  使用pip为指定的python版本(python3.5)安装库
-    pip install -t /usr/bin/python3.5/site-packages 模块名
+    先用浏览器下载setuptool文件和setup文件
+    然后解压，命令 tar -xf 文件名 或者 unzip 文件名 具体看后缀名名使用哪个命令，.zip用unzip 命令解压
+    然后运用 python3.5 setup.py install 在两个文件夹里都运行下
+    最后成功
+    安装第三方库
+    python3.5 -m pip install 模块名
