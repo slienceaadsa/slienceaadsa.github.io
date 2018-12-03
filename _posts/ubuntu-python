@@ -1,0 +1,13 @@
+Ubuntu下安装指定版本的python以及用pip为指定的python版本安装库
+
+Ubuntu下安装指定python版本
+   因为ubuntu下我已经安装了python3.6，但是因为程序的原因，需要使用python3.5，所以需要安装特定的python版本。
+   sudo install python3.5
+   即可安装python3.5，其他同理
+   这时，在终端使用python --version看python版本，发现仍然是python3.6，不要慌，因为环境变量问题，所以默认使用的仍然是python3.6，如果需要用python3.5运行
+   .py文件，只需用python3.5 文件名 命令即可
+   查看python安装目录
+   whereis  python3.5
+   
+ 使用pip为指定的python版本(python3.5)安装库
+    pip install -t /usr/bin/python3.5/site-packages 模块名
